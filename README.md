@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ I’m currently working in Vortex as full-stack dev<br>🌱 Improving my skills and trying out something new(three.js)<br>💬 Have 1.5 + years of corporate experience<br>⚡ Took part in different projects and events
+⚒️ I’m currently working in Vortex as full-stack dev<br>🌱 Improving my skills and trying out something new(three.js)<br>💬 Have 2 + years of corporate experience<br>⚡ Took part in different projects and events
 
 
 ## 🌐 Socials:
